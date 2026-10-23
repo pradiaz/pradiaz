@@ -1,15 +1,15 @@
-# Hai, saya Pradias Ramadhan 👋
+# Hi, I'm Pradias Ramadhan 👋
 
-Software Developer di **PT Tira Cipta Logistik**. Saya membangun sistem
-yang menjalankan operasional logistik sehari-hari, dari gerbang depo
-sampai dashboard manajemen.
+Software Developer at **PT Tira Cipta Logistik**. I build the systems that
+run day-to-day logistics operations, from the depot gate to the
+management dashboard.
 
-### 🏗️ Sistem yang pernah saya bangun
-- **Gate Management System (GMS)**: pengelolaan keluar-masuk kendaraan & kontainer
-- **Transport Management System (TMS)**: perencanaan dan monitoring pengiriman
-- **HRIS**: pengelolaan data karyawan, absensi, dan administrasi SDM
-- **RAP (Resource Allocation Planning)**: alokasi armada, driver, dan sumber daya
-- **Dashboard Middleware**: integrasi data antar sistem untuk dashboard real-time
+### 🏗️ Systems I've Built
+- **Gate Management System (GMS)**: manages vehicle and container entry/exit
+- **Transport Management System (TMS)**: delivery planning and monitoring
+- **HRIS**: employee data, attendance, and HR administration
+- **RAP (Resource Allocation Planning)**: allocation of fleet, drivers, and resources
+- **Dashboard Middleware**: cross-system data integration for real-time dashboards
 
 ### 🔧 Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
@@ -19,5 +19,5 @@ sampai dashboard manajemen.
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
-### 📫 Kontak
-[LinkedIn]([link](https://www.linkedin.com/in/pradias-ramadhan/)) · [Email](mailto:pradiasramadhan06@gmail.com)
+### 📫 Contact
+[LinkedIn]((https://www.linkedin.com/in/pradias-ramadhan/)) · [Email](mailto:pradiasramadhan06@gmail.com)
